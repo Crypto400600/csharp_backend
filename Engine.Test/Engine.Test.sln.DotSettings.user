@@ -1,0 +1,38 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005Cdeyem_005CDesktop_005CProgramming_005CProjects_005C_002Enet_005Csearch_002Dengine_005CEngine_005CEngine_005Cbin_005CDebug_005CEngine_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4988fbb9_002Df187_002D430d_002Dbb23_002D0e6d9cffa320/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="BaseDocumentTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::B79759F3-2D38-4F20-A539-BBBEB519B993::.NETFramework,Version=v4.8::Engine.Test.BaseDocumentTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::B79759F3-2D38-4F20-A539-BBBEB519B993::.NETFramework,Version=v4.8::Engine.Test.DbDocumentTest.IndexDocument&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=49eeb149_002D3643_002D4dc8_002Dad3b_002D0ac74d290b21/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="IndexDocument" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::B79759F3-2D38-4F20-A539-BBBEB519B993::.NETFramework,Version=v4.8::Engine.Test.DbDocumentTest.IndexDocument&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::B79759F3-2D38-4F20-A539-BBBEB519B993::.NETFramework,Version=v4.8::Engine.Test.QuerierTest.SearchTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=af038b27_002D215d_002D4628_002D83f3_002Dd9cc9ae8daae/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="IndexDocument #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::B79759F3-2D38-4F20-A539-BBBEB519B993::.NETFramework,Version=v4.8::Engine.Test.IndexTest.IndexDocument&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=bb349260_002De2ca_002D4d64_002D84c8_002D412a3aa46864/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="documentCreation" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::B79759F3-2D38-4F20-A539-BBBEB519B993::.NETFramework,Version=v4.8::Engine.Test.ConnectorTest.ConnectorCreation&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::B79759F3-2D38-4F20-A539-BBBEB519B993::.NETFramework,Version=v4.8::Engine.Test.BaseDocumentTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c0ac1ee3_002D8d79_002D496d_002D81d2_002Dd5da66f60e2a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="IndexDocument #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::B79759F3-2D38-4F20-A539-BBBEB519B993::.NETFramework,Version=v4.8::Engine.Test.DbDocumentTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::B79759F3-2D38-4F20-A539-BBBEB519B993::.NETFramework,Version=v4.8::Engine.Test.IndexTest.IndexDocument&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::B79759F3-2D38-4F20-A539-BBBEB519B993::.NETFramework,Version=v4.8::Engine.Test.QuerierTest.SearchTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ea4df0a1_002D66cc_002D4b5c_002Dba29_002D2ae929832b77/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="IndexDocument #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::B79759F3-2D38-4F20-A539-BBBEB519B993::.NETFramework,Version=v4.8::Engine.Test.DbDocumentTest.IndexDocument&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::B79759F3-2D38-4F20-A539-BBBEB519B993::.NETFramework,Version=v4.8::Engine.Test.QuerierTest.SearchTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

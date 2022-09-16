@@ -1,0 +1,30 @@
+﻿<Application x:Class="Gui.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Gui"
+             xmlns:viewModel="clr-namespace:Gui.MVVM.ViewModel"
+             xmlns:view="clr-namespace:Gui.MVVM.View"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="Components/MenuButton.xaml"/>
+                <ResourceDictionary Source="Components/SearchInput.xaml"/>
+                <ResourceDictionary Source="Components/SearchButton.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+
+            <DataTemplate DataType="{x:Type viewModel:HomepageViewModel}">
+                <view:Homepage/>
+            </DataTemplate>
+
+            <DataTemplate DataType="{x:Type viewModel:UploadContentViewModel}">
+                <view:UploadContent/>
+            </DataTemplate>
+
+            <DataTemplate DataType="{x:Type viewModel:AboutViewModel}">
+                <view:About/>
+            </DataTemplate>
+
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

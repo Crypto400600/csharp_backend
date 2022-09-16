@@ -1,0 +1,43 @@
+.notify-container {
+    display: none;
+    flex-direction: row;
+    align-items: center;
+    position: fixed;
+    background: #ffffff;
+    right: 5px;
+    box-shadow: 24px 24px 54px 0 rgba(25,25,25, 0.2);
+    border-radius: 4px;
+    padding: 4px 6px;
+    transition: 0.3s;
+}
+
+.show-notify{
+    display:flex;
+}
+
+.hide-notify{
+    display: none;
+}
+
+.notify-container .icon {
+    max-width: 45px;
+}
+
+.notify-container .icon img{
+    width:100%;
+}
+
+.message {
+    margin: 0 20px;
+}
+
+.notify-container button{
+    background:none;
+    border:none;
+    align-self: flex-start;
+    max-width:19px;
+}
+
+.notify-container button img{
+    max-width: 100%;
+}

@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Engine.BaseDocument">
+    <Position X="3.5" Y="1.75" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>BaseDocument.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Engine.DbDocument">
+    <Position X="3" Y="6.5" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAACAAIAAAAAAAAAAAAAAQIAAAA=</HashCode>
+      <FileName>DbDocument.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Engine.Index">
+    <Position X="8.5" Y="1.75" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Index.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Engine.PositionPointer">
+    <Position X="13.75" Y="1.75" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAggAAAAAAEAQgAAAAAAAAEAAAA=</HashCode>
+      <FileName>PositionPointer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Engine.Querier">
+    <Position X="18.25" Y="1.75" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAAACACAAgGIAAAAAAAAAEgAgAAAIAAAAAAAQAhgAAA=</HashCode>
+      <FileName>Querier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Engine.Stemmer">
+    <Position X="23.25" Y="1.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAQIBAAAACAACgAAgAAABAIARAAACBEAAAKAABAIAAA=</HashCode>
+      <FileName>Stemmer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Engine.Token">
+    <Position X="26.5" Y="1.75" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAAAAAAAACgIAAAAAKAABAAAAAAAA=</HashCode>
+      <FileName>Token.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Engine.TokenItem">
+    <Position X="31.25" Y="1.75" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAgAQAAAAAAAAAAAAAAEAAAAAAAQAA=</HashCode>
+      <FileName>TokenItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Engine.SearchIndex">
+    <Position X="9.5" Y="5.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SearchIndex.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Engine.Utils">
+    <Position X="36.5" Y="1.75" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAgAAAAAAAAAAAAAAAAAAAIACBAAAAACgAAAAA=</HashCode>
+      <FileName>Utils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

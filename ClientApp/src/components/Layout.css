@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200&display=swap');
+
+body,
+html,
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Mulish', sans-serif;
+}
+
+
+.layout {
+    height: 100%;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)), url("../ assets/bg2.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+
+footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+footer > p {
+    text-align: center;
+    color: rgba(0, 0, 0, 0.4);
+}
+
+footer .links{
+    margin: 15px 0;
+}
+
+.github-link,
+.doc-link{
+    color: #000;
+    font-size: 16px;
+    text-decoration: none;
+    margin: 0 2px;
+    padding: 0 5px;
+}
+
+.github-link {
+    border-left: 1.5px solid #000;
+}

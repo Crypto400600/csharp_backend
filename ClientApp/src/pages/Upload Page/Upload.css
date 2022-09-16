@@ -1,0 +1,85 @@
+.upload-page {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background: rgba(0,0,0,0.18);
+    padding: 8px;
+}
+
+.upload-page-header{
+    display: flex;
+    flex-direction: column;
+}
+
+.upload-page-header logo{
+    max-width: 200px;
+}
+
+.upload-page-header .upload-page-info{
+    margin: 10px 0;
+}
+
+.upload-page-header .upload-page-info .title{
+    font-size: 38px
+}
+
+.upload-page-main {
+    display: flex;
+    flex-direction: column;
+    margin: 15px 0;
+    max-width: 800px;
+}
+
+.upload-page-main form{
+    padding: 5px;
+    margin-bottom: 30px;
+}
+
+.upload-form-input{
+    display: flex;
+    flex-direction: column;
+    margin: 25px 5px;
+    width: 100%;
+}
+
+.upload-form-input #document-title,
+.upload-form-input #document-desc {
+    padding: 8px 4px;
+    background: #f1f1f1;
+    border: 1px solid #003CB0;
+}
+
+.upload-form-input #document-title:focus,
+.upload-form-input #document-desc:focus {
+    outline: 2px solid #003CB0;
+}
+
+.upload-form-input #document-desc {
+    resize: none;
+}
+
+.upload-page-main form .submit-btn {
+    padding: 10px 25px;
+    background: #fff;
+    border: 2px solid #003CB0;
+    color: #003CB0;
+    font-weight: 500;
+    font-size: 18px;
+    transition: 0.3s;
+    margin: 10px 0;
+    border-radius: 5px;
+}
+
+.upload-page-main form .submit-btn:hover {
+    background: #003CB0;
+    border: 2px solid #fff;
+    color: #fff;
+}
+
+.notice {
+    margin-top: 30px;
+    font-style: italic;
+    font-weight: 600;
+    color: #fff;
+}
+

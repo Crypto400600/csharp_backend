@@ -1,0 +1,43 @@
+
+.results-page-header {
+    display: flex;
+    flex-direction: column;
+    border-bottom: 1.5px solid #eeeeee;
+}
+
+.top-nav{
+    display: flex;
+    flex-direction:row;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.logo {
+    max-width: 220px;
+    margin: 10px;
+    align-self: flex-start;
+}
+
+.logo img{
+    width: 100%;
+}
+
+.result-info{
+    align-self:flex-start; 
+    margin: 10px
+}
+
+.result-info > h2{
+    font-size: 35px;
+}
+
+.matches-found, .response-time {
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.results-body {
+   
+    background-color: rgba(255, 255, 255, 0.4);
+    padding: 0 5px;
+    border-radius: 8px;
+}
